@@ -1,0 +1,25 @@
+
+
+body{
+  color: white;
+}
+
+.box {
+  display: block;
+  font-size: 100px;
+}
+
+.box2 {
+  display: block;
+  align-content: center;
+  font-size: 100px;
+}
+
+section {
+  position: relative;
+  display: felx;
+  flex-direction: column;
+  align-items: center;
+  min-height: 400px;
+  padding: 100px 20vw;
+}
